@@ -6,7 +6,7 @@ A unity game with the objective to abduct unsuspecting cows from a small planet.
 
 ## Controls
 
-Best played with an abox 360 controller
+Best played with an xbox 360 controller
 
 * Move - Left Stick
 * Rotate - Right Stick
