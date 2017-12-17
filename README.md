@@ -14,3 +14,4 @@ Best played with an abox 360 controller
 * Zoom out - Left trigger
 * Beam up - A
 * Restart - Start
+* Exit - Escape
