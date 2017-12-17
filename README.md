@@ -1,6 +1,6 @@
 # Planet Cow
 
-A unity game with the objective to conduct unknowing cows from a small planet.
+A unity game with the objective to abduct unsuspecting cows from a small planet.
 
 ![screenshot](https://i.imgur.com/Jrd2sed.jpg "screenshot")
 
